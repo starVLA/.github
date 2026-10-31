@@ -164,11 +164,14 @@ We welcome contributions across all repos:
   year   = {2025}
 }
 
-@misc{starvla2025,
-  title  = {StarVLA: A Lego-like Codebase for Vision-Language-Action Model Developing},
-  author = {StarVLA Community},
-  url    = {https://github.com/StarRobotics/StarVLA},
-  year   = {2025}
+@article{community2026starvla,
+  title={StarVLA: A Lego-like Codebase for Vision-Language-Action Model Developing},
+  author={{StarVLA Community}},
+  journal={arXiv preprint arXiv:2604.05014},
+  year={2026},
+  eprint={2604.05014},
+  archivePrefix={arXiv},
+  primaryClass={cs.RO}
 }
 ```
 
